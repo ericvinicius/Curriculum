@@ -74,7 +74,7 @@ Estagiar na área de desenvolvimento de software
         <td> 2011 </td>
         <td> 
            HackLab (130h)<br />
-            CESC - Pompeia
+            SESC - Pompeia
         </td>
     </tr>
     <tr>
