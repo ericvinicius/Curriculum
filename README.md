@@ -31,14 +31,14 @@ Estagiar na área de desenvolvimento de software
     <tr>
         <td> 2013 </td>
         <td> 
-            Java para Desenvolvimento Web (40h) - Aluno Convidado<br />
+            Java para Desenvolvimento Web (40h)<br />
             Caelum - Ensino e Inovação
         </td>
     </tr>
     <tr>
         <td> 2013 </td>
         <td> 
-            Java e Orientação a Objetos (40h) - Aluno Convidado<br />
+            Java e Orientação a Objetos (40h)<br />
             Caelum - Ensino e Inovação
         </td>
     </tr>
@@ -88,7 +88,7 @@ Estagiar na área de desenvolvimento de software
 		        <li> Redes e Internet (16h)</li>
 		        <li> Desenvolvimento na prática (8h)</li>
             </ul>
-            Global Code
+            Globalcode
         </td>
     </tr>
 </table>
