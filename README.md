@@ -98,6 +98,6 @@ Estagiar na área de desenvolvimento de software
 <table>
     <tr>
         <td> 2014 </td>
-        <td> Assinatura do Livro livro de ouro CPOR - Premio de estimulo ao exemplo, por ter concluído o ano sem nenhuma punição. </td>
+        <td> Assinatura do Livro de ouro CPOR - Premio de estimulo ao exemplo, por ter concluído o ano sem nenhuma punição. </td>
     </tr>
 </table>
